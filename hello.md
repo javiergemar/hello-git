@@ -7,3 +7,4 @@ Esto es una prueba en local
 - mouredev
 - braismoure
 - javiergemar
+- javiergemar-testing
