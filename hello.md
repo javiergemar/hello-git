@@ -8,3 +8,4 @@ Esto es una prueba en local
 - braismoure
 - javiergemar
 - javiergemar-testing
+- josan
